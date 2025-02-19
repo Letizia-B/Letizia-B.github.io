@@ -1,3 +1,9 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+title: Letizia Bugiani, PhD student
+description: [the site is still under construction] \\
+I am a PhD student of Astrophysics at the University of Bologna, Italy. My main research interests are quiescent galaxies at intermediate-to-high redshift 
+and the relationship between AGN and their host galaxies. I mainly work with spectroscopic data from JWST/NIRSpec and I am supervised by professor Sirio Belli.
+
